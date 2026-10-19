@@ -106,7 +106,6 @@ nano .env
 # Renseigner : ANTHROPIC_API_KEY=sk-ant-...
 ```
 
-Obtenez votre clé sur [console.anthropic.com](https://console.anthropic.com).
 
 ### 3. Ajouter vos documents
 
