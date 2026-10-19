@@ -1,0 +1,94 @@
+RÈGLEMENT GÉNÉRAL — CRÉDIT IMMOBILIER
+======================================
+Banque Exemple | Département Crédits Habitat | Version 2024.1
+
+I. CRITÈRES D'ÉLIGIBILITÉ
+
+1.1 Profil emprunteur
+Pour bénéficier d'un crédit immobilier Banque Exemple, le demandeur doit remplir
+les conditions suivantes :
+- Être majeur (18 ans révolus) et résider en France métropolitaine ou DOM-TOM
+- Disposer d'une situation professionnelle stable :
+  * CDI après période d'essai (minimum 3 mois d'ancienneté)
+  * Fonctionnaire titulaire
+  * Profession libérale avec 3 ans d'exercice minimum
+  * Chef d'entreprise avec 3 exercices comptables positifs
+- Taux d'endettement ≤ 35% des revenus nets (recommandation HCSF)
+- Pas d'incident de paiement actif au fichier FICP
+
+1.2 Caractéristiques du bien financé
+- Résidence principale, secondaire ou investissement locatif
+- Valeur minimale du bien : 80 000 €
+- Quotité financée : jusqu'à 110% (frais inclus) sous conditions
+
+II. CALCUL DU TAUX D'INTÉRÊT
+
+2.1 Composition du taux débiteur
+Le taux nominal annuel (TN) est composé de :
+- Taux de base : déterminé par l'OAT 10 ans + spread de crédit
+- Majoration risque : fonction du profil emprunteur (0 à +0,50%)
+- Modulation durée : +0,05% par tranche de 5 ans au-delà de 15 ans
+
+2.2 Taux Annuel Effectif Global (TAEG)
+Le TAEG intègre, en plus du taux nominal :
+- L'assurance emprunteur (taux individuel selon profil)
+- Les frais de dossier (0,8% du capital, min. 500€, max. 1 500€)
+- Les frais de garantie (hypothèque ou caution)
+- Les frais d'évaluation du bien (le cas échéant)
+
+2.3 Taux d'usure
+Conformément aux dispositions du Code de la consommation (art. L.314-6), le TAEG
+ne peut excéder le taux d'usure publié trimestriellement par la Banque de France.
+
+III. ASSURANCE EMPRUNTEUR
+
+3.1 Garanties obligatoires
+- Décès : 100% du capital restant dû
+- Invalidité Permanente Totale (IPT) : 100% du capital restant dû
+- Incapacité Temporaire Totale (ITT) : remboursement des mensualités dès le 91ème jour
+
+3.2 Garanties optionnelles
+- Invalidité Permanente Partielle (IPP) : à partir de 33% d'invalidité
+- Perte d'emploi : 50% des mensualités pendant 18 mois maximum
+
+3.3 Délégation d'assurance
+Conformément à la loi Lagarde (2010) et Lemoine (2022), l'emprunteur peut choisir
+librement son assurance emprunteur auprès de tout organisme proposant des garanties
+au moins équivalentes. La substitution est possible à tout moment sans frais.
+
+IV. MODALITÉS DE REMBOURSEMENT
+
+4.1 Amortissement
+Le crédit est remboursable par mensualités constantes (amortissement français).
+Chaque mensualité M est calculée selon la formule :
+M = Capital × [r / (1 - (1+r)^(-n))]
+Où r = taux mensuel = taux annuel / 12, n = nombre de mensualités
+
+4.2 Remboursement anticipé
+Le remboursement anticipé partiel ou total est possible à tout moment.
+Les Indemnités de Remboursement Anticipé (IRA) sont plafonnées à :
+- 6 mois d'intérêts sur le capital remboursé, OU
+- 3% du capital restant dû
+(le montant le plus faible des deux s'applique)
+
+Ces indemnités ne s'appliquent pas en cas de vente du bien suite à :
+mobilité professionnelle, décès, chômage.
+
+4.3 Modulation des mensualités
+Une fois par an, l'emprunteur peut demander la modification de sa mensualité :
+- À la hausse : sans condition
+- À la baisse : dans la limite de 30%, sans allonger la durée totale de plus de 2 ans
+
+V. GARANTIES
+
+5.1 Hypothèque conventionnelle
+Garantie classique inscrite au bureau des hypothèques. Coût : environ 1,5% du capital.
+Nécessite un acte notarié. Levée en fin de prêt moyennant des frais.
+
+5.2 Caution organisme (ex : Crédit Logement)
+Alternative à l'hypothèque. Coût comparable mais remboursement partiel possible
+en fin de prêt (fonds mutuel de garantie). Plus simple administrativement.
+
+5.3 Privilège de Prêteur de Deniers (PPD)
+Applicable uniquement pour l'achat dans l'ancien. Rang prioritaire en cas de saisie.
+Coût inférieur à l'hypothèque.

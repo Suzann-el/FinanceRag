@@ -1,0 +1,71 @@
+RAPPORT ANNUEL 2024 — BANQUE EXEMPLE
+=====================================
+
+1. RÉSULTATS FINANCIERS
+
+Produit Net Bancaire (PNB)
+Le produit net bancaire s'établit à 2,4 milliards d'euros pour l'exercice 2024,
+en progression de 7,3% par rapport à 2023. Cette croissance s'explique principalement
+par la hausse des revenus d'intérêts (+12%) dans un contexte de normalisation des taux
+et par la bonne tenue des commissions (+8,4%).
+
+Charges d'exploitation
+Les charges d'exploitation s'élèvent à 1,52 milliards d'euros, soit un ratio
+d'efficacité (cost-to-income) de 63,3%, en amélioration de 2,1 points.
+
+Résultat net
+Le résultat net part du groupe ressort à 412 millions d'euros, en hausse de 15,2%
+sur un an. Le retour sur fonds propres (ROE) atteint 11,8%.
+
+2. SOLVABILITÉ ET LIQUIDITÉ
+
+Ratio CET1
+Le ratio Common Equity Tier 1 (CET1) s'établit à 13,2% au 31 décembre 2024,
+nettement supérieur aux exigences réglementaires minimales de 4,5% (Pilier 1) et
+au seuil global de 8% (incluant les coussins de conservation). Ce ratio témoigne
+de la solidité financière du groupe.
+
+Ratio de liquidité
+Le Liquidity Coverage Ratio (LCR) s'établit à 142%, très au-dessus du minimum de 100%.
+Le Net Stable Funding Ratio (NSFR) atteint 118%.
+
+Fonds propres
+Les fonds propres réglementaires (Tier 1) s'élèvent à 8,4 milliards d'euros.
+Les actifs pondérés des risques (RWA) s'établissent à 63,6 milliards d'euros.
+
+3. GESTION DES RISQUES
+
+Coût du risque
+Le coût du risque s'établit à 35 points de base des encours de crédits, en ligne
+avec notre objectif annuel de 30-40 bp. Le taux de créances douteuses (NPL ratio)
+ressort à 2,8%, en amélioration de 0,3 point.
+
+Exposition au risque de marché
+La Value at Risk (VaR) 99% à 1 jour s'établit en moyenne à 12 millions d'euros
+sur l'exercice, dans les limites approuvées par le Conseil d'Administration.
+
+4. ACTIVITÉ COMMERCIALE
+
+Crédits à la clientèle
+Les encours de crédits progressent de 4,2% à 85,3 milliards d'euros, portés par
+les crédits à l'habitat (+6,1%) et les crédits aux entreprises (+3,8%).
+Les crédits à la consommation reculent légèrement de 1,2%.
+
+Dépôts et épargne
+Les ressources clientèle atteignent 92,8 milliards d'euros (+5,7%).
+L'épargne réglementée (Livret A, LDDS) progresse de 8,3%.
+Les dépôts à terme enregistrent une forte hausse de 22,4% dans un contexte
+de taux attractifs.
+
+5. PERSPECTIVES 2025
+
+Objectifs financiers
+- PNB : croissance de 4-6%
+- Ratio cost-to-income : en dessous de 62%
+- Coût du risque : 30-40 bp
+- ROE : supérieur à 12%
+- CET1 : maintien au-dessus de 13%
+
+Investissements stratégiques
+Le groupe prévoit d'investir 280 millions d'euros dans la transformation digitale
+et la modernisation des systèmes d'information sur la période 2025-2027.

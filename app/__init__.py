@@ -1,0 +1,1 @@
+# FinanceRAG — app package

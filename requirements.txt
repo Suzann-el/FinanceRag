@@ -1,0 +1,33 @@
+# FinanceRAG — Requirements
+# Python 3.10+
+
+# LLM & RAG
+anthropic==0.34.2
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.38
+
+# Embeddings & Vector Store
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+
+# Document processing
+pypdf==4.3.1
+python-docx==1.1.2
+openpyxl==3.1.5
+
+# Web App
+streamlit==1.38.0
+streamlit-chat==0.1.1
+
+# Data & Utils
+pandas==2.2.2
+numpy==1.26.4
+python-dotenv==1.0.1
+pydantic==2.8.2
+tqdm==4.66.5
+loguru==0.7.2
+
+# Testing
+pytest==8.3.3
+pytest-cov==5.0.0

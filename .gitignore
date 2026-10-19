@@ -1,0 +1,41 @@
+# Environnement
+.env
+*.env
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.pytest_cache/
+htmlcov/
+.coverage
+*.egg-info/
+dist/
+build/
+
+# Données sensibles
+data/raw/*.pdf
+data/raw/*.docx
+data/processed/
+!data/raw/exemple_*.txt
+
+# Index FAISS (gros fichier binaire)
+vectorstore/faiss_index/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+models_cache/ 
