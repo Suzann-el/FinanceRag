@@ -9,7 +9,7 @@
 **FinanceRAG** est un chatbot documentaire spécialisé dans les documents financiers (rapports annuels, conditions générales, réglementations bancaires). Il utilise la technologie RAG (Retrieval-Augmented Generation) pour répondre avec précision à des questions métier en citant ses sources.
 
 ---
-
+#Lien vers le chatbot : https://financerag-5.streamlit.app/
 ## 🎯 Cas d'usage
 
 | Secteur | Documents supportés | Exemples de questions |
